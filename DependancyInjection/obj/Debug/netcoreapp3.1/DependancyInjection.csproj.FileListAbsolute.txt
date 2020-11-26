@@ -1,0 +1,13 @@
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.exe
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.deps.json
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.runtimeconfig.json
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.runtimeconfig.dev.json
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.dll
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\bin\Debug\netcoreapp3.1\DependancyInjection.pdb
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.csprojAssemblyReference.cache
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.AssemblyInfoInputs.cache
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.AssemblyInfo.cs
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.dll
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.pdb
+C:\Users\Quentin\RiderProjects\DependancyInjection\DependancyInjection\obj\Debug\netcoreapp3.1\DependancyInjection.genruntimeconfig.cache
